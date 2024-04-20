@@ -52,7 +52,7 @@ The face recognition attendance system utilizes the K-Nearest Neighbors (KNN) al
 
 ## Contributors
 
-- [Your Name](https://github.com/your_username)
+- Ajay Kumar(https://github.com/your_username)
 
 ## License
 
